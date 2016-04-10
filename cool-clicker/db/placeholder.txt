@@ -1,6 +1,2 @@
 ﻿This directory will contain database files (probably SQLite).
-oh. what's an actual comment?
-oh.
-nah
-
-meanie.
+i like u
